@@ -3,9 +3,20 @@
 
 - I am currently learning **Python** and **Golang**
 - I am in search of collaboration with cool projects
-<h3 align = "left">Connect me through :point_down: : </h3>
+- :mailbox: : anjanavadakinalil05@gmail.com
+<h3 align="left">LANGUAGES:</h3>
+<p align ="left">
+<a href="https://www.python.org/" target="blank"><img align="center" src=                   "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height="20" width="30"/></a>
+
+
+
+
+
+<h4 align = "left">Connect me through :point_down: : </h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/anjana-v/ target="blank"><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "anjana-v" height="20" width="30" /></a>
+<a href="https://twitter.com/Anjana_vkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anjana_vkl" height="20" width="30" /></a>
+<a href="https://instagram.com/__anj_ana.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anj_ana.__" height="20" width="30"/></a>
 
 
 
