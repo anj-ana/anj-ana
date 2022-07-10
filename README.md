@@ -7,9 +7,8 @@
 <h3 align="left">LANGUAGES:</h3>
 <p align ="left">
 <a href="https://www.python.org/" target="blank"><img align="center" src=                   "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height="20" width="30"/></a>
-
-
-
+<a href ="https://www.java.com/en/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="java" height="30" width="50" /></a>
+  <a href="https://go.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" height="20" width="30"/></a>
 
 
 <h4 align = "left">Connect me through :point_down: : </h4>
