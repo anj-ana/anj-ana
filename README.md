@@ -1,5 +1,14 @@
-### Hi there 👋
-### I am Anjana V, currently an engineering student :
+<h1 align="center">Hi there :wave: ,I am Anjana</h1>
+<h2 align="center">An engineering student and a developer by passion!!</h2>
+
+- I am currently learning **Python** and **Golang**
+- I am in search of collaboration with cool projects
+<h3 align = "left">Connect me through :point_down: : </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anjana-v/ target="blank"><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "anjana-v" height="20" width="30" /></a>
+
+
+
 
 
 
