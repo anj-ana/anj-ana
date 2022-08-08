@@ -1,7 +1,7 @@
 <h1 align="center">Hi there :wave: ,I am Anjana</h1>
 <h2 align="center">An engineering student and a developer by passion!!</h2>
 
-- I am currently learning **Python** and **Golang**
+- I am currently learning **Python**
 - I am in search of collaboration with cool projects
 - :mailbox: : anjanavadakinalil05@gmail.com
 <h3 align="left">LANGUAGES:</h3>
